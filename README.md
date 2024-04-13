@@ -1,1 +1,2 @@
-# AdvancedBayesianModeling-Project
+# Advanced Bayesian Modeling
+# Project
