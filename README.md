@@ -1,2 +1,2 @@
-# Advanced Bayesian Modeling
+# Deep Learning for Healthcare
 # Project
